@@ -14,7 +14,7 @@ const Alert = (props:AlertProps) => {
 
 const useStyles = makeStyles({
     googleButton:{
-        backgroundColor: 'rgb(66,133,244)',
+        backgroundColor: 'rbg(66,133,244)',
         marginTop: '2em',
         padding: '0',
         color: 'white',
